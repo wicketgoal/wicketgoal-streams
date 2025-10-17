@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   nepal: {
-    url: "https://rumble-foxo.cdn.rumble.cloud/live/t34ch9px/slot-5/30ri-ostl_1080p/playlist.m3u8",
+    url: "https://rumble-foxo.cdn.rumble.cloud/live/d5a20b4d/slot-93/18r9-y3ys/playlist.m3u8",
     poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw5AUFwWq2uRT3Zoqjb9XCZHLKXN9C3XsmZYRZ1IPPP_EGSvchyoTf32GNS4XuBhOXJqTy8rUflS2A4VW-0i8f-aQkza4CJkF8ifHPSRJXNTp6nGsXSg-A36ZDWKpykSz2um5oAc8JGFOCZQ-aptX1wBGZCgjF5pkyQNOISu2HQ4_jw1G7YeqKLTDbMNo/s16000/Untitled%20design%20(6).png"
   },
   ktv: {
