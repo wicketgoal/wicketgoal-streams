@@ -13,12 +13,12 @@ const streamMap = {
     poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw5AUFwWq2uRT3Zoqjb9XCZHLKXN9C3XsmZYRZ1IPPP_EGSvchyoTf32GNS4XuBhOXJqTy8rUflS2A4VW-0i8f-aQkza4CJkF8ifHPSRJXNTp6nGsXSg-A36ZDWKpykSz2um5oAc8JGFOCZQ-aptX1wBGZCgjF5pkyQNOISu2HQ4_jw1G7YeqKLTDbMNo/s16000/Untitled%20design%20(6).png"
   },
   npl: {
-    url: "https://npl-live.pages.dev/free.m3u8",
+    url: "https://npl-live.pages.dev/starsports.m3u8",
     poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw5AUFwWq2uRT3Zoqjb9XCZHLKXN9C3XsmZYRZ1IPPP_EGSvchyoTf32GNS4XuBhOXJqTy8rUflS2A4VW-0i8f-aQkza4CJkF8ifHPSRJXNTp6nGsXSg-A36ZDWKpykSz2um5oAc8JGFOCZQ-aptX1wBGZCgjF5pkyQNOISu2HQ4_jw1G7YeqKLTDbMNo/s16000/Untitled%20design%20(6).png"
   },
 
   npl2: {
-    url: "https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-15/48hp-hg26/chunklist_DVR.m3u8",
+    url: "https://npl-live.pages.dev/starsports2.m3u8",
     poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw5AUFwWq2uRT3Zoqjb9XCZHLKXN9C3XsmZYRZ1IPPP_EGSvchyoTf32GNS4XuBhOXJqTy8rUflS2A4VW-0i8f-aQkza4CJkF8ifHPSRJXNTp6nGsXSg-A36ZDWKpykSz2um5oAc8JGFOCZQ-aptX1wBGZCgjF5pkyQNOISu2HQ4_jw1G7YeqKLTDbMNo/s16000/Untitled%20design%20(6).png"
   }
 };
