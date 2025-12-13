@@ -4,8 +4,8 @@ const streamMap = {
     url: "https://webott.viatv.com.np/v0t1/KntC!neplexTv.stream/chunks.m3u8",
     poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw5AUFwWq2uRT3Zoqjb9XCZHLKXN9C3XsmZYRZ1IPPP_EGSvchyoTf32GNS4XuBhOXJqTy8rUflS2A4VW-0i8f-aQkza4CJkF8ifHPSRJXNTp6nGsXSg-A36ZDWKpykSz2um5oAc8JGFOCZQ-aptX1wBGZCgjF5pkyQNOISu2HQ4_jw1G7YeqKLTDbMNo/s16000/Untitled%20design%20(6).png"
   },
-  ktv: {
-    url: "https://in-mc-fdlive.fancode.com/mumbai/138305_english_hls_083300e36265785_1ta-di_h264/index.m3u8",
+  acc: {
+    url: "https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8 ",
     poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw5AUFwWq2uRT3Zoqjb9XCZHLKXN9C3XsmZYRZ1IPPP_EGSvchyoTf32GNS4XuBhOXJqTy8rUflS2A4VW-0i8f-aQkza4CJkF8ifHPSRJXNTp6nGsXSg-A36ZDWKpykSz2um5oAc8JGFOCZQ-aptX1wBGZCgjF5pkyQNOISu2HQ4_jw1G7YeqKLTDbMNo/s16000/Untitled%20design%20(6).png"
   },
   fox3: {
