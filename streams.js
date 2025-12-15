@@ -5,15 +5,15 @@ const streamMap = {
     poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw5AUFwWq2uRT3Zoqjb9XCZHLKXN9C3XsmZYRZ1IPPP_EGSvchyoTf32GNS4XuBhOXJqTy8rUflS2A4VW-0i8f-aQkza4CJkF8ifHPSRJXNTp6nGsXSg-A36ZDWKpykSz2um5oAc8JGFOCZQ-aptX1wBGZCgjF5pkyQNOISu2HQ4_jw1G7YeqKLTDbMNo/s16000/Untitled%20design%20(6).png"
   },
   acc: {
-    url: "https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8 ",
+    url: "https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8",
     poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw5AUFwWq2uRT3Zoqjb9XCZHLKXN9C3XsmZYRZ1IPPP_EGSvchyoTf32GNS4XuBhOXJqTy8rUflS2A4VW-0i8f-aQkza4CJkF8ifHPSRJXNTp6nGsXSg-A36ZDWKpykSz2um5oAc8JGFOCZQ-aptX1wBGZCgjF5pkyQNOISu2HQ4_jw1G7YeqKLTDbMNo/s16000/Untitled%20design%20(6).png"
   },
   fox3: {
     url: "https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-157/mu3h-v92e_1080p/chunklist.m3u8",
     poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw5AUFwWq2uRT3Zoqjb9XCZHLKXN9C3XsmZYRZ1IPPP_EGSvchyoTf32GNS4XuBhOXJqTy8rUflS2A4VW-0i8f-aQkza4CJkF8ifHPSRJXNTp6nGsXSg-A36ZDWKpykSz2um5oAc8JGFOCZQ-aptX1wBGZCgjF5pkyQNOISu2HQ4_jw1G7YeqKLTDbMNo/s16000/Untitled%20design%20(6).png"
   },
-  npl: {
-    url: "https://npl-live.pages.dev/playlist.m3u8",
+  acc1: {
+    url: "https://tvsen5.aynaott.com/Ptvsports/index.m3u8",
     poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw5AUFwWq2uRT3Zoqjb9XCZHLKXN9C3XsmZYRZ1IPPP_EGSvchyoTf32GNS4XuBhOXJqTy8rUflS2A4VW-0i8f-aQkza4CJkF8ifHPSRJXNTp6nGsXSg-A36ZDWKpykSz2um5oAc8JGFOCZQ-aptX1wBGZCgjF5pkyQNOISu2HQ4_jw1G7YeqKLTDbMNo/s16000/Untitled%20design%20(6).png"
   },
 
