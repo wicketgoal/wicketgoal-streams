@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   nepal: {
-    url: "https://webott.viatv.com.np/v0t1/KntC!neplexTv.stream/chunks.m3u8",
+    as: "https://tvsen6.aynaott.com/asports/index.m3u8",
     poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw5AUFwWq2uRT3Zoqjb9XCZHLKXN9C3XsmZYRZ1IPPP_EGSvchyoTf32GNS4XuBhOXJqTy8rUflS2A4VW-0i8f-aQkza4CJkF8ifHPSRJXNTp6nGsXSg-A36ZDWKpykSz2um5oAc8JGFOCZQ-aptX1wBGZCgjF5pkyQNOISu2HQ4_jw1G7YeqKLTDbMNo/s16000/Untitled%20design%20(6).png"
   },
   bpl: {
@@ -9,11 +9,11 @@ const streamMap = {
     poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw5AUFwWq2uRT3Zoqjb9XCZHLKXN9C3XsmZYRZ1IPPP_EGSvchyoTf32GNS4XuBhOXJqTy8rUflS2A4VW-0i8f-aQkza4CJkF8ifHPSRJXNTp6nGsXSg-A36ZDWKpykSz2um5oAc8JGFOCZQ-aptX1wBGZCgjF5pkyQNOISu2HQ4_jw1G7YeqKLTDbMNo/s16000/Untitled%20design%20(6).png"
   },
   bpl2: {
-    url: "https://tvsen7.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8",
+    url: "https://tvsen5.aynaott.com/willowhd/index.m3u8",
     poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw5AUFwWq2uRT3Zoqjb9XCZHLKXN9C3XsmZYRZ1IPPP_EGSvchyoTf32GNS4XuBhOXJqTy8rUflS2A4VW-0i8f-aQkza4CJkF8ifHPSRJXNTp6nGsXSg-A36ZDWKpykSz2um5oAc8JGFOCZQ-aptX1wBGZCgjF5pkyQNOISu2HQ4_jw1G7YeqKLTDbMNo/s16000/Untitled%20design%20(6).png"
   },
    bpl3: {
-    url: "https://tvsen1.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8",
+    url: "https://tvsen6.aynaott.com/asports/index.m3u8",
     poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw5AUFwWq2uRT3Zoqjb9XCZHLKXN9C3XsmZYRZ1IPPP_EGSvchyoTf32GNS4XuBhOXJqTy8rUflS2A4VW-0i8f-aQkza4CJkF8ifHPSRJXNTp6nGsXSg-A36ZDWKpykSz2um5oAc8JGFOCZQ-aptX1wBGZCgjF5pkyQNOISu2HQ4_jw1G7YeqKLTDbMNo/s16000/Untitled%20design%20(6).png"
   },
   ptv: {
